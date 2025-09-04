@@ -48,20 +48,3 @@ When I’m not programming, you’ll find me gaming or at the gym—always level
 
 ---
 
-## ✨ Text Animations & Effects (for improved readability)
-
-```html
-<style>
-  .animated-heading {
-    animation: fadeIn 3s ease-out;
-    color: #4CAF50;
-    font-weight: bold;
-  }
-
-  @keyframes fadeIn {
-    0% { opacity: 0; }
-    100% { opacity: 1; }
-  }
-</style>
-
-<h2 class="animated-heading">Welcome to My GitHub Profile!</h2>
