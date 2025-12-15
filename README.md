@@ -116,8 +116,8 @@ When I’m not programming, you’ll usually find me:
 
 Want to collaborate, ask a question, or just talk tech?
 
-- ✉️ **Email:** *(add your preferred email here)*  
-- 💼 **LinkedIn:** *(add your LinkedIn profile link here)*  
+- ✉️ **Email:** *mattys1908@gmail.com*  
+- 💼 **LinkedIn:** *Matthew Smith*  
 - 🧑‍💻 **GitHub:** [`@mattys1908`](https://github.com/mattys1908)
 
 <p align="center">
