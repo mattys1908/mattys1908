@@ -62,7 +62,7 @@ I’m a **Software Engineer** who loves building modern, inclusive, and robust s
 #### ⭐ Tutorly – Tutoring Website for SEN
 
 [`Tutorly – Peer-Powered Learning Platform`](https://github.com/Nick2711/TUTORLY-Peer-Powered-Learning-Platform)  
-A specialized tutoring platform focused on supporting **Special Educational Needs (SEN)** learners.  
+A specialized tutoring platform focused on supporting learners get in touch with real tutors (for our 3rd Year Software Engineering project).  
 *Technology used to make education more accessible and inclusive.*
 
 #### 🧬 More Notable Work
